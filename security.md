@@ -67,7 +67,7 @@ ad blocker chrome is a maintenance tool for Windows. It scans your system for pr
 ## System Requirements
 
 | **Component** | **Requirement** |
-| --- | --- | --- |
+| --- | --- |
 | **Operating system** | Windows 10 or 11 (64-bit) |
 | **RAM** | 2 GB or more |
 | **Free disk space** | 100 MB |
